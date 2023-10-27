@@ -2,6 +2,10 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustavodFaria&theme=radical&mode=weekly"/>
+ <source
+  [![Top Langs](https://github-readme-stats-gus.vercel.app/api/top-langs/?username=GustavodFaria)](https:github.com/GustavodFaria/github-readme-stats-gus.git)
+ />
+
 
 </div>
  
